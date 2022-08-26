@@ -1,1 +1,3 @@
 # node-watch-test
+
+test!
